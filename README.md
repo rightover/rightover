@@ -1,6 +1,3 @@
-HELLO. MY NAME IS RIGHTOVER. 
+Hello, my name is Cheyenne and I am from the Midwest United States.
 
-I AM INTERESTED IN LEARNING PERL, BRAINFUCK, AND JAPH.
-
-R.I.P. TERRY DAVIS.
-
+I am interested in learning for the good of humanity. Hypothetically.
